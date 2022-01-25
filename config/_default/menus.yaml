@@ -1,0 +1,37 @@
+leftnav:
+- identifier: 6cd3429a-faae-5ff0-d752-ede8e09c4f94
+  name: 'Part I: Sets, Functions, and Limits'
+  url: /video_galleries/part-i-sets-functions-and-limits
+  weight: 10
+- identifier: 1aaa37bc-4ff1-60d5-6dd4-98c6d59a8de9
+  name: 'Part II: Differentiation'
+  url: /video_galleries/part-ii-differentiation
+  weight: 20
+- identifier: 98fbe04a-5b98-6c3a-1030-95e746e64ad7
+  name: 'Part III: The Circular Functions'
+  url: /video_galleries/part-iii-the-circular-function
+  weight: 30
+- identifier: 4c60c181-f562-9b77-abd6-1ee7c4b5834e
+  name: 'Part IV: The Definite Integral'
+  url: /video_galleries/part-iv-the-definite-integral
+  weight: 40
+- identifier: 15b1cc08-b5f8-362a-0228-689f45db1cd6
+  name: 'Part V: Transcendental Functions'
+  url: /video_galleries/part-v-transcendental-functions
+  weight: 50
+- identifier: 59524604-fe7e-9cbd-4faa-69e293055aa9
+  name: 'Part VI: More Integration Techniques'
+  url: /video_galleries/part-vi-more-integration-techniques
+  weight: 60
+- identifier: 17c6bc38-b4d6-5a98-66b5-c3e04bde807e
+  name: 'Part VII: Infinite Series'
+  url: /video_galleries/part-vii-infinite-series
+  weight: 70
+- identifier: d57d3648-3881-f3d9-61c4-963af391b2fb
+  name: Study Materials
+  url: /pages/study-materials
+  weight: 80
+- identifier: external-d55ad3b616114a8abfde27fd8ac368eb
+  name: IN MEMORY OF HERB GROSS
+  url: https://www.ocw-openmatters.org/2020/06/10/in-memory-of-herb-gross/
+  weight: 1000
